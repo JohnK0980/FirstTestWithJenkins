@@ -4,5 +4,5 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class LoginTest {
     public WebDriver driver = new ChromeDriver();
 
-    
+
 }
